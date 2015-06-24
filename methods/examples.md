@@ -20,7 +20,7 @@ What are the differences between Specification by example, Behaviour-Driven deve
 
 Brainstorm 15 Minutes using index cards on a Table. Make a Photo and post this to the right hashtag.
 
-Hint: You are supposed to resarch on the web. ;)
+Hint: You are supposed to research on the web. ;)
 
 ## References
 

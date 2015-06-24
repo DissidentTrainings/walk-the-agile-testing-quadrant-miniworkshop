@@ -53,4 +53,5 @@ Possible outputs: Missing information about the test, bugs, notes for things tha
 * [Exploratory testing explained](https://www.satisfice.com/articles/et-article.pdf)
 * [Exploratory Testing - The Basics](https://university.utest.com/exploratory-testing-the-basics/)
 * [What is exploratory testing?](http://istqbexamcertification.com/what-is-exploratory-testing-in-software-testing/)
-* [session based test management](http://www.satisfice.com/articles/sbtm.pdf)
+* [Session based test management](http://www.satisfice.com/articles/sbtm.pdf)
+* [An exploratory testers notebook](http://www.developsense.com/presentations/2007-10-PNSQC-AnExploratoryTestersNotebook.pdf)

@@ -15,10 +15,9 @@ Functional testing does not imply that you are testing a function (method) of yo
 
 Take 15 Minutes. Note down on a Flip chart.
 
-## 
+## Tasks
 
-
-
+* Come up with 10 functional requirements and define how (and with which tool) they could be tested.
 
 ## References
 

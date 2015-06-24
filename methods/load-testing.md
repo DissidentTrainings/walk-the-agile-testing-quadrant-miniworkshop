@@ -7,5 +7,3 @@ Load testing is the process of putting demand on a system or device and measurin
 [Load Testing](https://en.wikipedia.org/wiki/Load_testing)
 
 ## Tasks
-
-**List Challenges**
